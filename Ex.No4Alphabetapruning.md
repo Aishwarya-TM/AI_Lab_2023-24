@@ -59,6 +59,7 @@ if __name__ == "__main__":
 
 ### Output:
 
+![Screenshot 2023-10-28 105743](https://github.com/Aishwarya-TM/AI_Lab_2023-24/assets/127846109/56806025-3110-4a03-b0ce-286ba1c90df2)
 
 
 ### Result:
