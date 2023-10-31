@@ -35,6 +35,7 @@ dfs(visited, graph, '5')
 
 ### Output:
 
+![Screenshot 2023-10-28 105331](https://github.com/Aishwarya-TM/AI_Lab_2023-24/assets/127846109/38a021d8-185f-4e3b-9e67-0990951cd535)
 
 
 ### Result:
