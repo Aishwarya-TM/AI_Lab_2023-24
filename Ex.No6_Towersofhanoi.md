@@ -31,6 +31,7 @@ move(N,X,Y,Z) :-
 
 ### Output:
 
+![Screenshot 2023-10-31 142347](https://github.com/Aishwarya-TM/AI_Lab_2023-24/assets/127846109/60378947-46a2-49d6-ba61-428fb80bb2d1)
 
 
 ### Result:
