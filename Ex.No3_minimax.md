@@ -55,6 +55,7 @@ print(minimax(0, 0, True, scores, treeDepth))
 
 ### Output:
 
+![Screenshot 2023-10-28 105529](https://github.com/Aishwarya-TM/AI_Lab_2023-24/assets/127846109/89230177-ccf2-46d1-95c9-a191198f6370)
 
 
 ### Result:
