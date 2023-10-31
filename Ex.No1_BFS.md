@@ -41,6 +41,7 @@ bfs(visited, graph, '5')
 ```
 ### Output:
 
+![Screenshot 2023-10-28 105052](https://github.com/Aishwarya-TM/AI_Lab_2023-24/assets/127846109/9ba8ebb2-1833-4235-8f45-5c6272bfe632)
 
 
 ### Result:
