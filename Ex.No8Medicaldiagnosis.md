@@ -14,19 +14,42 @@ Write a Prolog program to build a medical Diagnosis Expert System.
         
 
 ### Program:
-
-
-
-
-
-
-
-
-
-
+```
+hypothesis(Patient,german_measles) :- 
+ symptom(Patient,fever), 
+ symptom(Patient,headache), 
+ symptom(Patient,runny_nose), 
+ symptom(Patient,rash). 
+hypothesis(Patient,flu) :- 
+ symptom(Patient,fever), 
+ symptom(Patient,headache), 
+ symptom(Patient,body_ache), 
+ symptom(Patient,conjunctivitis), 
+ symptom(Patient,chills), 
+ symptom(Patient,sore_throat), 
+ symptom(Patient,runny_nose), 
+ symptom(Patient,cough). 
+hypothesis(Patient,common_cold) :- 
+ symptom(Patient,headache), 
+ symptom(Patient,sneezing), 
+ symptom(Patient,sore_throat). 
+hypothesis(Patient,chicken_pox) :- 
+ symptom(Patient,fever), 
+ symptom(Patient,chills), 
+ symptom(Patient,body_ache), 
+ symptom(Patient,rash).
+hypothesis(Patient,measles) :- 
+ symptom(Patient,cough), 
+ symptom(Patient,sneezing), 
+ symptom(Patient,runny_nose). 
+symptom(raju,headache). 
+symptom(raju,sneezing). 
+symptom(raju,sore_throat). 
+```
 
 ### Output:
 
+![Screenshot 2023-11-01 201725](https://github.com/Aishwarya-TM/AI_Lab_2023-24/assets/127846109/e88f0a15-87fa-43c9-a903-4cc8e6e0faa7)
 
 
 ### Result:
